@@ -10,7 +10,7 @@
 - 검증 영상 수: [확인 필요]
 - 폐사 의심 판별 결과: [확인 필요]
 
-![YOLO 폐사체 탐지 결과](images/yolo_result.png)
+![YOLO 폐사체 탐지 결과](image.png)
 
 ## 문제
 
